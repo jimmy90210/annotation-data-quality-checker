@@ -1,0 +1,8 @@
+id,text,language,label
+001,The order arrived on time.,en,positive
+002,El pedido llegó a tiempo.,es,positive
+003,The package is on the table.,en,neutral
+003,El producto llegó roto.,es,negative
+005,   ,en,neutral
+006,The delivery was late.,en,unhappy
+007,El paquete está aquí.,spanish,neutral
