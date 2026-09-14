@@ -1,0 +1,27 @@
+{
+  "rows_checked": 7,
+  "issue_count": 4,
+  "passed": false,
+  "issues": [
+    {
+      "row": 5,
+      "code": "duplicate_id",
+      "field": "id"
+    },
+    {
+      "row": 6,
+      "code": "missing_value",
+      "field": "text"
+    },
+    {
+      "row": 7,
+      "code": "invalid_value",
+      "field": "label"
+    },
+    {
+      "row": 8,
+      "code": "invalid_value",
+      "field": "language"
+    }
+  ]
+}
